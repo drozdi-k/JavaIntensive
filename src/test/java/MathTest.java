@@ -1,7 +1,5 @@
 import org.testng.annotations.Test;
 import org.apache.log4j.Logger;
-//import org.apache.log4j.xml.DOMConfigurator;
-//import junit.framework.TestCase;
 import static org.junit.Assert.*;
 
 public class MathTest{
