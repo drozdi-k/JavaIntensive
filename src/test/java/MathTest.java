@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 public class MathTest{
 
     Logger logger = Logger.getLogger(MathTest.class);
+
     @Test
     public void subtraction() {
         int a = 18;

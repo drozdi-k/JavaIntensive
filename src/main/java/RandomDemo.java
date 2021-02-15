@@ -4,6 +4,7 @@ import org.apache.log4j.Logger;
 
 public class RandomDemo {
     public static void main(String[] args) {
+
         Logger logger = Logger.getLogger(RandomDemo.class);
         Random randomGenerator = new Random();
         int a = randomGenerator.nextInt(30);
